@@ -1,4 +1,4 @@
-package com.company;
+package com.learn.ds;
 
 public class Stack<T> {
     private int maxSize;
